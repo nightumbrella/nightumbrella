@@ -37,3 +37,10 @@ Hi there! I'm a passionate developer/software engineer with a strong interest in
 <img align="left" alt="three js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
+<h1></h1>
+<h1></h1>
+
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightumbrella&layout=compact)
