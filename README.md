@@ -47,4 +47,4 @@ Hi there! I'm a passionate developer/software engineer with a strong interest in
 
 ---
 -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightumbrella&layout=compact)
