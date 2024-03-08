@@ -1,4 +1,4 @@
-# Booo 🐈
+# Bo 🐈
 
 **`Digital Time (Developer/YouTuber)`**
 
